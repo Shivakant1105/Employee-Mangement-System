@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "firstname": "shiva",
+      "lastname": "Kant",
+      "birthdate": "2001-03-13",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Etelligens",
+      "jobExperience": 1,
+      "salary": 0,
+      "profile": "Profile-01.jpg",
+      "id": 12
+    },
+    {
+      "firstname": "Harsh",
+      "lastname": "Sharma",
+      "birthdate": "2023-07-13",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Etellogens technology",
+      "jobExperience": 4,
+      "salary": "",
+      "profile": "Profile-06.jpg",
+      "id": 14
+    },
+    {
+      "firstname": "Shiva Kant",
+      "lastname": "Mishra",
+      "birthdate": "2001-03-13",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Etelligens technology",
+      "jobExperience": 6,
+      "salary": "",
+      "profile": "Profile-07.jpg",
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
